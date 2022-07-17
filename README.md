@@ -10,3 +10,8 @@ LAB-3 [02/06/2022]
 <br>
 LAB-4 [12/06/2022]
 <br>
+
+#### Final-Term LAB Tasks of following dates:
+
+FT LAB-1 [17/07/2022]
+<br>
