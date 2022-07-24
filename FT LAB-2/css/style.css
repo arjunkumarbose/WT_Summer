@@ -1,0 +1,128 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body 
+{
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  background: rgb(186,210,212);
+}
+
+.header 
+{
+  color: black;
+  padding: 30px;
+  text-align: left;
+  background: rgb(204,254,253);
+}
+
+.button
+{
+  color: black;
+}
+
+.submit
+{
+  background-color: rgb(1,141,194);
+  color: black;
+  border-radius: 3px;
+  margin: 4px 2px;
+  padding: 2px 30px;
+}
+
+.reset
+{
+  background-color: rgb(1,141,194);
+  color: black;
+  border-radius: 3px;
+  margin: 4px 2px;
+  padding: 2px 30px;
+}
+
+.header h1
+{
+  font-size: 30px;
+}
+
+.header h2
+{
+  color: rgb(4,21,183);
+}
+
+div.line
+{
+  padding-top: 10px;
+  border-bottom: double;
+}
+
+div.sticky
+{
+  position: sticky;
+  top: 0;
+  padding: 0;
+  border: 2px solid rgb(64,41,85);
+}
+
+.topnav 
+{
+  overflow: hidden;
+  background-color: rgb(64,41,85);
+}
+
+.topnav a 
+{
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav p
+{
+  float: right;
+  display: block;
+  color: rgb(30, 8, 51);
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover 
+{
+  background-color: black;
+  color: white;
+}
+
+div.fixed
+{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+td
+{
+  background-color: rgb(232, 232, 158);
+}
+
+div.middlecolumn
+{
+  position: relative;
+  left: 25%;
+  float: center;
+  width: 50%;
+}
+
+.registrationBox 
+{
+  background-color: rgb(220,244,243);
+  border-left: 15px solid rgb(109,194,195);
+  padding: 4px;
+  font-size: 10px;
+}
